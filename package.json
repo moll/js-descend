@@ -1,8 +1,14 @@
 {
 	"name": "descend",
-	"version": "0.0.0",
-	"description": "",
-	"keywords": [],
+	"version": "0.1.337",
+	"description": "Function to set up an inherited class that calls its ancestor constructors automatically. Can also be attached to constructors.",
+	"keywords": [
+		"class",
+		"descend",
+		"inherit",
+		"inheritance",
+		"prototype"
+	],
 	"homepage": "https://github.com/moll/js-descend",
 	"bugs": "https://github.com/moll/js-descend/issues",
 
