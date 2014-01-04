@@ -27,7 +27,7 @@ npm install descend
 
 Using
 -----
-### Using on Constructors
+### Using on constructors
 Attach `descend` (or name it `inherit` or whatever you like) on a constructor:
 ```javascript
 function Model() { console.log("Model initialized.") }
