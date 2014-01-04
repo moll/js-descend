@@ -1,7 +1,9 @@
 Descend.js
 ==========
 [![NPM version][npm-badge]](http://badge.fury.io/js/descend)
+[![Build status][travis-badge]](https://travis-ci.org/moll/js-descend)
 [npm-badge]: https://badge.fury.io/js/descend.png
+[travis-badge]: https://travis-ci.org/moll/js-descend.png?branch=master
 
 Descend.js gives you a simple `descend` function you can attach to constructors
 or call directly to give you an inherited class (constructor with inherited
